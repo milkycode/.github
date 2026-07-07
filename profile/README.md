@@ -2,7 +2,7 @@
 
 Software development from Cologne, Germany – specializing in Laravel/Livewire.js web applications, e-commerce (Shopware, Magento), and AI integration.
 
-🌐 [milkycode.de](https://milkycode.com)
+🌐 [milkycode.com](https://milkycode.com)
 
 ### Our SaaS Tools
 
